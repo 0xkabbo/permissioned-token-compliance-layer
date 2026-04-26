@@ -1,0 +1,8 @@
+{
+  "name": "permissioned-token-compliance-layer",
+  "version": "1.0.0",
+  "description": "Compliant ERC20 with Identity Registry",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
